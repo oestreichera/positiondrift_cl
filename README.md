@@ -1,6 +1,6 @@
 ## Position Drift $C_l$
 
-Code to calculate the angular power spectrum of position drift fluctuations as described in [arxiv:?](link)
+Code to calculate the angular power spectrum of position drift fluctuations as described in [arxiv:2510.05956](https://arxiv.org/abs/2510.05956)
 
 For a $\Lambda$ CDM universe:
 
@@ -15,7 +15,7 @@ and the python version of [CLASS](http://class-code.net/) which can be installed
 
 ### Credits 
 
-If you use this code in a scientific publication we ask you to please cite [arxiv:?](link)
+If you use this code in a scientific publication we ask you to please cite [arxiv:2510.05956](https://arxiv.org/abs/2510.05956)
 
 ### Contact
 
